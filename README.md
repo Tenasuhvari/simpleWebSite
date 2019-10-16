@@ -1,5 +1,5 @@
 # simpleWebSite
-My First Website, Images must be in the desktop in order to work. 
+My First Website.
   
   
   You can use this website sample for whatever you want.
